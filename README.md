@@ -1,4 +1,3 @@
-
 # JProfilerX
 
 JProfilerX is a local-first Java 21 desktop utility for observing JVM memory, garbage collection counters, threads, and class loading through JMX. It uses the Java Attach API to start the target JVM's local management agent when the target supports it. It is designed as an engineering aid, not as a replacement for Java Flight Recorder, Java Mission Control, or a heap-dump analyzer.

@@ -124,9 +124,3 @@ The sample gradually retains small byte arrays, generates short-lived allocation
 - More comprehensive accessibility, keyboard navigation, and cross-platform UI testing.
 - Packaging with `jpackage` for Windows, macOS, and Linux.
 
-## License
-
-Licensed under the MIT License. See [LICENSE](LICENSE).
-=======
-# JProfilerX
->>>>>>> a06ee8d0d1d6c1f525c8eecbc60fe528058839c8
